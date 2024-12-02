@@ -1,7 +1,7 @@
 👋 Hi, 
 - I’m Rina TCHOLA SEUKAM
 - 💞️ I’m looking to collaborate on projet as Junior Developper
-📫 You can reatch me on linkedin
+📫 You can reatch me on linkedin or by email Yseukam@yahoo.com
 
   MY SKILLS ARE : 
   - ✨Back-end : JAVA , PYTHON , PHP , SPRING BOOT, MYSQL, H2DATABASE, PHPMYADMIN, FIREBIRD
